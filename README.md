@@ -1,7 +1,7 @@
 <html lang="es">
 <head>
   /* Hide the header */  
-.site-header {  /* <a href="https://gpdr606060.github.io/afasf/">afasf</a>*/  
+.site-header {  /* <h1> </h1>*/  
   display: none !important;  
 }  
 

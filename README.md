@@ -1,5 +1,10 @@
 <html lang="es">
 <head>
+  /* Hide the header */  
+.site-header {  /* <a href="https://gpdr606060.github.io/afasf/">afasf</a>*/  
+  display: none !important;  
+}  
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Reto Rejuvenese — 10 Semanas de Transformación Integral</title>

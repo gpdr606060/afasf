@@ -1,7 +1,7 @@
 <html lang="es">
 <head>
   /* Hide the header */  
-.site-header {  /* <h1> </h1>*/  
+.site-header {  /* <h1> */  
   display: none !important;  
 }  
 

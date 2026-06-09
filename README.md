@@ -1,9 +1,8 @@
 <html lang="es">
 <head>
-  /* Hide the header */  
-.site-header {  /* <h1> */  
-  display: none !important;  
-}  
+  /* Hide the h1 */  
+ 
+
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
